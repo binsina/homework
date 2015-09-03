@@ -9,7 +9,7 @@ import java.util.Random;
 import javax.xml.soap.MessageFactory;
 public class Tryout {
 
-		    public static void main(String[] args){
+	   public static void main(String[] args){
 	    Player Player1 = new Player();
 	    Player Computer = new Player();
 	    String turn = "Player1";
